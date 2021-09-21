@@ -966,6 +966,8 @@
       <string>Cut</string>
       <string>Stinger1</string>
       <string>Stinger2</string>
+      <string>Stinger3</string>
+      <string>Stinger4</string>
     </StringValues>
     <ActiveStatePath>Transitions[Transition/Number/{1}].Effect</ActiveStatePath>
     <ActiveStateXPath>//transition[@number='{1}']/@effect</ActiveStateXPath>
@@ -1026,6 +1028,8 @@
       <string>Cut</string>
       <string>Stinger1</string>
       <string>Stinger2</string>
+      <string>Stinger3</string>
+      <string>Stinger4</string>
     </StringValues>
   </vMixFunctionReference>
 

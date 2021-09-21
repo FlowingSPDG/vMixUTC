@@ -26,6 +26,8 @@ namespace vMixAPI
         VerticalSlideReverse = 46,
         Cut = 100,
         Stinger1,
-        Stinger2
+        Stinger2,
+        Stinger3,
+        Stinger4
     }
 }
